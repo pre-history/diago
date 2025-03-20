@@ -1,4 +1,4 @@
-module github.com/emiago/diago
+module github.com/pre-history/diago
 
 go 1.22.4
 

@@ -8,9 +8,9 @@ import (
 	"net"
 	"testing"
 
-	"github.com/emiago/diago/media/sdp"
 	"github.com/emiago/sipgo/fakes"
 	"github.com/pion/rtcp"
+	"github.com/pre-history/diago/media/sdp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

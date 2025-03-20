@@ -6,10 +6,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/emiago/diago/examples"
-	"github.com/emiago/diago/media/sdp"
 	"github.com/emiago/sipgo"
 	"github.com/emiago/sipgo/sip"
+	"github.com/pre-history/diago/examples"
+	"github.com/pre-history/diago/media/sdp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

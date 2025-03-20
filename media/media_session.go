@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/emiago/diago/media/sdp"
+	"github.com/pre-history/diago/media/sdp"
 	"github.com/emiago/sipgo/sip"
 	"github.com/pion/rtcp"
 	"github.com/pion/rtp"

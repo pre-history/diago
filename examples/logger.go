@@ -4,8 +4,8 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/emiago/diago/media"
 	"github.com/emiago/sipgo/sip"
+	"github.com/pre-history/diago/media"
 )
 
 func SetupLogger() {

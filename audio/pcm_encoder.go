@@ -10,7 +10,7 @@ import (
 	"log/slog"
 	"sync"
 
-	"github.com/emiago/diago/media"
+	"github.com/pre-history/diago/media"
 )
 
 /*
