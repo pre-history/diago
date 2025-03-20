@@ -8,7 +8,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/emiago/diago/media"
+	"github.com/pre-history/diago/media"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/emiago/diago/media"
 	"github.com/emiago/sipgo"
 	"github.com/emiago/sipgo/sip"
+	"github.com/pre-history/diago/media"
 )
 
 type ServeDialogFunc func(d *DialogServerSession)
